@@ -1,5 +1,10 @@
 # serverless-s3-notifications
 
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
+[![npm](https://img.shields.io/npm/v/serverless-s3-notifications.svg)](https://www.npmjs.com/package/serverless-s3-notifications)
+[![npm](https://img.shields.io/npm/dt/serverless-s3-notifications.svg)](https://www.npmjs.com/package/serverless-s3-notifications)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kevinrambaud/serverless-functions-path/master/LICENSE)
+
 # Event notifications on already existing buckets
 ```
 The reason for developing this plugin is that the serverless framework currently not supports creating event notifications on existing buckets, because it wants to create the bucket and fails when it already exists. In our particular use-case we need to add event notifications on already existing buckets.
