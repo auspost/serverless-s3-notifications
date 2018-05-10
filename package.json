@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/svdgraaf/serverless-pseudo-parameters"
+    "url": "https://github.com/auspost/serverless-s3-notifications"
   },
   "main": "lib/index.js",
   "dependencies": {}
