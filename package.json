@@ -1,11 +1,13 @@
 {
   "name": "serverless-s3-notifications",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/auspost/serverless-s3-notifications"
   },
   "main": "lib/index.js",
-  "dependencies": {}
+  "dependencies": {
+    "serverless-s3-notifications": "git://github.com/auspost/serverless-s3-notifications#f7ce8a8"
+  }
 }
