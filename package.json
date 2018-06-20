@@ -8,6 +8,6 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "serverless-s3-notifications": "git://github.com/auspost/serverless-s3-notifications#f7ce8a8"
+    "serverless-s3-notifications": "git://github.com/auspost/serverless-s3-notifications"
   }
 }
